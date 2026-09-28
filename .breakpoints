@@ -1,0 +1,20 @@
+{
+  "files": {
+    "commands/owner/createInv.js": [
+      {
+        "id": "db9f96d6-3270-4272-913f-3564948f866b",
+        "line": 13,
+        "version": 22,
+        "index": 260
+      }
+    ],
+    "events/guildJoin.js": [
+      {
+        "id": "e9c8c794-8314-468a-b036-997fc323c01b",
+        "line": 25,
+        "version": 272,
+        "index": 1207
+      }
+    ]
+  }
+}
