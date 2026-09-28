@@ -57,7 +57,7 @@ Amberr/
 Clone the repository:
 
 ```bash
-git clone https://github.com/MananSinghGulati//Amberr.git
+git clone https://github.com/MananSinghGulati/Amberr.git
 cd Amberr
 ```
 
